@@ -28,6 +28,8 @@ This library is much better than ccondom (that use BOB), much more stable and mu
 
 ## Documentation ##
 
+* Online doc :
+  https://godoc.org/github.com/eyedeekay/sam3
 * Latest version-documentation:
     * set your GOPATH
     * Enter `godoc -http=:8081` into your terminal and hit enter.
@@ -38,7 +40,7 @@ This library is much better than ccondom (that use BOB), much more stable and mu
 package main
 
 import (
-	"github.com/majestrate/i2p-tools/sam3"
+	"github.com/eyedeekay/sam3"
 	"fmt"
 )
 
